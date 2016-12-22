@@ -3,7 +3,7 @@ int main()
 {
 char d;
 scanf("%c",&d)
-if(d=(A==a||E==e||I==i||O==o||U==u))
+if((d==A)||(d==a)||(d==E)||(d==e)||(d==I)||(d==i)||(d==O)||(d==o)||(d==U)||(d==u))
 {
 printf("%d is a vowel\n");
 }
